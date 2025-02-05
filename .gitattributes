@@ -3,7 +3,7 @@
 *.cpp linguist-detectable=false
 *.kt linguist-detectable=false
 *.rb linguist-detectable=false
-*.javascript linguist-detectable=false
+*.js linguist-detectable=false
 *.swift linguist-detectable=false
 *.cmake linguist-detectable=false
 *.gradle linguist-detectable=false

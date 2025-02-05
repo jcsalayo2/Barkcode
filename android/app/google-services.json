@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807639676943",
+    "project_id": "dowdow-dev",
+    "storage_bucket": "dowdow-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807639676943:android:b7bf8f24c7fc78db66cb7a",
+        "android_client_info": {
+          "package_name": "com.jsengr.dawdaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Y6s2IhrwmAv9p6COqg_0ieWiHsuAAYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
